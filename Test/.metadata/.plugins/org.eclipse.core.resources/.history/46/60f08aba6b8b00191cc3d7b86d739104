@@ -1,0 +1,38 @@
+package automationTest1;
+ 
+import com.poiji.annotation.ExcelCell;
+import com.poiji.annotation.ExcelCellName;
+ 
+public class DataMap
+{
+   	@ExcelCell("TestMethodName")
+   	public String testMethodName;
+   	
+   	@ExcelCell("BrandName")
+   	public String brandName;
+   	
+   	@ExcelCell("BrandWebsite")
+   	public String brandWeb;
+   	
+   	@ExcelCell("ProjectName")
+   	public String projectName;
+   	
+   	@ExcelCell("ProjectDesc")
+   	public String projectDesc;
+   	
+   	@ExcelCell("FirstName")
+   	public String firstName;
+   	
+   	@ExcelCell("LastName")
+   	public String lastName;
+   	
+   	@ExcelCell("EmailId")
+   	public String emailId;
+   	
+   	@ExcelCell("MobileNo")
+   	public String mobileNo;
+   	
+  	@ExcelCell("ExpectedMessage")
+   	public String expectedMsg;
+}
+ 

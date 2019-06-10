@@ -1,0 +1,6 @@
+2019-06-10 21:58:41.971 [main] INFO  automationTest1.TestScenarios - Create Video link has been clicked
+2019-06-10 21:58:43.219 [main] INFO  automationTest1.TestScenarios - Quote form details are filled
+2019-06-10 21:58:46.310 [main] INFO  automationTest1.TestScenarios - Order has been placed successfully
+2019-06-10 21:58:54.873 [main] INFO  automationTest1.TestScenarios - Create Video link has been clicked
+2019-06-10 21:58:55.680 [main] INFO  automationTest1.TestScenarios - Quote form details are filled
+2019-06-10 21:58:55.793 [main] INFO  automationTest1.TestScenarios - Due to incomplete fields ,order cant be placed

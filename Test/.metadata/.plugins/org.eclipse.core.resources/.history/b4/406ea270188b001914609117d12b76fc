@@ -1,0 +1,9 @@
+package automationTest;
+
+import org.testng.annotations.Test;
+
+public class TestScenarios {
+  @Test
+  public void f() {
+  }
+}
