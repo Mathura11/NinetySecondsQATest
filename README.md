@@ -41,6 +41,7 @@ Test Scenarios Explanation:
 2.TestScenario 2 comprises the negative flow test case. Brand details are left blank and on clicking next button error message that highlights the missing fields is displayed.
 
 Test Execution:
-
 Right click on TestScenarios.java ,select Run As->TestNg test.A browser window should be opened executing the test steps .
+
+Please refer to the mp4 video in this repository showing demo of the live execution.
 
